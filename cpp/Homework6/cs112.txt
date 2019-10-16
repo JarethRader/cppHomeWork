@@ -1,0 +1,5 @@
+7843 John Mauchly 60 78.5 88 
+1719 George Boole 75 88 99  
+5132 Grace Hopper 70 80 90 
+7676 Donald Shell 85 95 90 
+3834 Ada Lovelace 80.5 91.5 92.5

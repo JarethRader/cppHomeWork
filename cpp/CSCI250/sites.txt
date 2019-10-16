@@ -1,0 +1,86 @@
+www.xoax.net
+ computer science
+   algorithms
+      Lesson 5: Linear and Binary Searching
+      Lesson 6: Big O, Big Omega, and Big Theta Notation
+
+Bubble Sort
+===========
+https://www.youtube.com/watch?v=8Kp-8OGwphY                        
+https://www.toptal.com/developers/sorting-algorithms/bubble-sort
+
+Insertion Sort
+==============
+https://www.youtube.com/watch?v=DFG-XuyPYUQ
+https://www.toptal.com/developers/sorting-algorithms/insertion-sort
+
+Selection Sort
+==============
+https://www.youtube.com/watch?v=f8hXR_Hvybo
+https://www.toptal.com/developers/sorting-algorithms/selection-sort
+ 
+Shell Sort
+==========
+https://www.youtube.com/watch?v=H8NiFkGu2PY
+https://www.youtube.com/watch?v=qzXAVXddcPU
+
+Merge Sort
+==========
+https://www.youtube.com/watch?v=EeQ8pwjQxTM&t=127s
+http://www.algoanim.ide.sk/index.php?page=showanim&id=75   //merge
+http://www.algoanim.ide.sk/index.php?page=showanim&id=72
+http://www.algoanim.ide.sk/index.php?page=showanim&id=118
+https://www.toptal.com/developers/sorting-algorithms/merge-sort
+
+Quick Sort
+==========
+https://www.youtube.com/watch?v=8hHWpuAPBHo
+http://www.algoanim.ide.sk/index.php?page=showanim&id=117
+https://www.toptal.com/developers/sorting-algorithms/quick-sort
+http://www.algoanim.ide.sk/index.php?page=showanim&id=11  //bubble sort vs. quicksort
+
+Merge Sort vs. Quicksort
+========================
+http://www.algoanim.ide.sk/index.php?page=showanim&id=24  //start at 2:15
+
+Binary Tree
+===========
+https://www.cs.cmu.edu/~adamchik/15-121/lectures/Trees/trees.html (First half)
+http://csanimated.com/animation.php?t=Queue  //queue
+http://csanimated.com/animation.php?t=Stack  //stack(pushdown)
+
+Binary Search Tree (BST)
+========================
+https://www.cs.cmu.edu/~adamchik/15-121/lectures/Trees/trees.html (Second half)
+http://csanimated.com/animation.php?t=Binary_search_tree
+http://www.algoanim.ide.sk/index.php?page=showanim&id=44  
+http://csanimated.com/animation.php?t=Self-balancing_binary_search_tree
+http://csanimated.com/animation.php?t=Tree_rotation
+
+AVL Tree
+========
+https://en.wikipedia.org/wiki/AVL_tree
+https://www.tutorialspoint.com/data_structures_algorithms/avl_tree_algorithm.htm
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=7&cad=rja&uact=8&ved=0ahUKEwiC4Iamp43SAhWLrlQKHaH2A60QFgg-MAY&url=https%3A%2F%2Fwww.cpp.edu%2F~ftang%2Fcourses%2FCS241%2Fnotes%2Fimages%2Ftrees%2FAVL%2520tree%2520animation.ppt&usg=AFQjCNFkrMBOEMxdYUsR1LjOg1p3IZVvLA&sig2=lj-Pr9smqtVT0XF5UHaH2g
+https://www.cs.usfca.edu/~galles/visualization/AVLtree.html
+
+Red Black Tree
+==============
+http://csanimated.com/animation.php?t=Red-black_tree 
+http://www.algoanim.ide.sk/index.php?page=showanim&id=63
+
+Heap
+====
+http://xoax.net/comp_sci/crs/algorithms/lessons/Lesson9/
+heapsort.ppt in H drive CSCI250 folder
+
+HeapSort
+========
+http://xoax.net/comp_sci/crs/algorithms/lessons/Lesson10/
+https://www.toptal.com/developers/sorting-algorithms/heap-sort
+http://www.algoanim.ide.sk/index.php?page=showanim&id=52
+
+Counting Sort, Radix Sort
+=========================
+https://www.youtube.com/watch?v=Nz1KZXbghj8
+
